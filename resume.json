@@ -1,0 +1,317 @@
+{
+  "basics": {
+    "name": "Riffat Wyne",
+    "label": "AI Certified Technical Writer | Documentation Manager | Docs-as-code",
+    "email": "riffatwyne@hotmail.com",
+    "location": "Copenhagen Metropolitan Area",
+    "url": "https://www.linkedin.com/in/riffatwyne",
+    "summary": "Highly experienced Documentation Manager and Senior Technical Writer with expertise in Knowledge Management, Information Architecture, and AI. Proven track record managing globally distributed teams of technical writers, implementing documentation strategies, and driving continuous improvements in product documentation processes. Strong leadership, relationship-building, and decision-making skills with extensive experience in single-source publishing, topic-based authoring, and content management systems.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "riffatwyne",
+        "url": "https://www.linkedin.com/in/riffatwyne"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Getinge",
+      "position": "Chapter Lead, Senior Technical Writer",
+      "startDate": "2023-03",
+      "endDate": "",
+      "summary": "Define vision and strategies for product documentation across DHS in Getinge within R&D. Lead people management with resource planning and adherence to deadlines and budgets. Implement AI writing assistants, Claude Code, and localization workflows.",
+      "highlights": [
+        "Unified Getinge delivering product documentation across multiple products in DHS division",
+        "Implemented Document360, Azure DevOps, MadCap Flare, Confluence, Notion, and Crowdin for documentation tools",
+        "Drove improvements in product documentation processes, approval flows, and cross-functional interfaces through alignment and standardization",
+        "Managed recruitment process and strategic development planning for technical writing team members"
+      ]
+    },
+    {
+      "name": "Bühler Group",
+      "position": "Documentation Team Lead",
+      "startDate": "2020-10",
+      "endDate": "2023-03",
+      "summary": "Aligned technical documentation across Business Units in Denmark, Austria, and Switzerland. Managed and mentored globally distributed team of technical writers. Implemented EDMS and continuously improved documentation processes.",
+      "highlights": [
+        "Implemented EDMS (Electronic Document Management System) through stakeholder requirement gathering and requirements specifications preparation",
+        "Managed and mentored a globally distributed team of Technical Writers across 3 countries",
+        "Created yearly Technical Documentation department Transformation cards to forecast team needs and departmental improvements",
+        "Continuously improved technical documentation in collaboration with Engineering, Product Management, and R&D departments"
+      ]
+    },
+    {
+      "name": "Bühler Group",
+      "position": "Senior Technical Writer",
+      "startDate": "2019-05",
+      "endDate": "2020-10",
+      "summary": "Prepared technical documentation including operating instructions, control panels manuals, installation guides, and wiring diagrams. Managed spare parts catalogues from SAP and coordinated translations with external agencies.",
+      "highlights": [
+        "Developed documentation for new machinery and accessories with mechanical and electrical equipment expertise",
+        "Prepared Operating Instructions manuals and Control Panels manuals for industrial equipment",
+        "Coordinated translations with external translation agencies and managed CMS imports/exports",
+        "Supported Engineering and R&D management serving as interface between engineers, designers, and customers"
+      ]
+    },
+    {
+      "name": "CapaSystems A/S",
+      "position": "Senior Technical Writer",
+      "startDate": "2017-03",
+      "endDate": "2019-03",
+      "summary": "Responsible for technical documentation of PerformanceGuard software. Developed and maintained online help, eLearning content, and API documentation. Implemented single-source publishing and topic-based authoring with MadCap Flare.",
+      "highlights": [
+        "Developed and maintained Online-Help and eLearning materials for PerformanceGuard software",
+        "Implemented single-source publishing and topic-based authoring using MadCap Flare, Analyzer, and Lingo",
+        "Created API documentation and Swagger specifications for software developers",
+        "Managed translation memory, localization, and pseudolocalization across multiple language releases"
+      ]
+    },
+    {
+      "name": "Atea Danmark",
+      "position": "Technical Writer - Quality & CSI",
+      "startDate": "2014-08",
+      "endDate": "2016-12",
+      "summary": "Responsible for QA and documentation quality control. Defined standard templates for Service Catalog and established agreements with SMEs aligned with project obligations.",
+      "highlights": [
+        "Performed overall quality control review of technical documentation to ensure compliance with standards and contractual obligations",
+        "Defined standard templates for Service Catalog documentation across organization",
+        "Reviewed, updated, and validated technical documentation from multiple departments",
+        "Established SME agreements aligned with project obligations, work breakdown structures, and quality requirements"
+      ]
+    },
+    {
+      "name": "Atea Danmark",
+      "position": "Technical Writer - Service Desk Management",
+      "startDate": "2013-07",
+      "endDate": "2016-12",
+      "summary": "Managed communication and content coordination for HTML/CSS web updates. Created service catalog documentation and described ITIL process roles. Wrote help text and system instructions.",
+      "highlights": [
+        "Managed multiple deliverables and projects simultaneously as Project Manager",
+        "Created documentation for CSMS describing 5 ITIL Processes (Problem, Change, Incident, Project & Assignment, Service Request & Catalogue, Service Agreement Management)",
+        "Developed Service Catalog product sheet templates and value parameters documents for multiple concepts and services",
+        "Authored ServiceNow procedures and work instructions for service delivery operations"
+      ]
+    },
+    {
+      "name": "Muazzam Ali Shaheed Welfare Trust",
+      "position": "Copywriter / Web Content Editor",
+      "startDate": "2012-03",
+      "endDate": "2016-12",
+      "summary": "Web content editor and copywriter for charity organization website. Created promotional materials and managed social media content.",
+      "highlights": [
+        "Designed and created web content for WordPress/HTML-based website for charitable organization",
+        "Produced newsletters, banners, brochures, and promotional content for fundraising campaigns",
+        "Managed Facebook page and social media content for community engagement",
+        "Edited video and audio materials using multimedia production tools"
+      ]
+    },
+    {
+      "name": "Atea",
+      "position": "Technical Writer",
+      "startDate": "2009-04",
+      "endDate": "2016-12",
+      "summary": "Responsible for technical documentation across multiple domains including Service Desk, IT infrastructure, and system operations. Experienced with IT service management tools and ITIL processes.",
+      "highlights": [
+        "Created comprehensive technical documentation for Service Desk, Incident Management, and Change Management processes",
+        "Produced SOP documentation, troubleshooting guides, and installation/maintenance guides for IT operations",
+        "Documented IT infrastructure including hosting, data centers, disaster recovery, and transitions",
+        "Developed procedures and documentation for IT operations, networking standards, and service desk workflows"
+      ]
+    },
+    {
+      "name": "nnit",
+      "position": "Technical Writer",
+      "startDate": "2006-04",
+      "endDate": "2006-11",
+      "summary": "Reviewed and updated Configuration Item List (CIL) reports. Created documentation for change requests and maintained server update documentation.",
+      "highlights": [
+        "Reviewed and updated CIL (Configuration Item List) reports for IT asset management",
+        "Created documentation and reports for RFC (Request for Change) submissions",
+        "Reviewed servers for past, current, and latest updates and changes with documentation updates"
+      ]
+    },
+    {
+      "name": "Active Business Resources",
+      "position": "IT Supporter/Administrator",
+      "startDate": "2000-05",
+      "endDate": "2002-05",
+      "summary": "Provided technical solutions and support for Windows-based software systems. Supported Royal Bank of Scotland with hardware and software administration.",
+      "highlights": [
+        "Provided technical solutions for Windows-based software for Royal Bank of Scotland",
+        "Performed 1st/2nd level hardware administration and support for end users",
+        "Prepared technical documentation and online help resources for customers and team members",
+        "Managed PC installations, recovery, and end-user system administration"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Lincoln",
+      "studyType": "BSc(hons)",
+      "area": "Computer Networking and Business Management, Information Technology",
+      "startDate": "1999",
+      "endDate": "2002"
+    },
+    {
+      "institution": "Norton College",
+      "studyType": "A-levels",
+      "area": "Mathematics, Chemistry, and IT"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Documentation Tools",
+      "level": "Expert",
+      "keywords": [
+        "MadCap Flare",
+        "MadCap Analyzer",
+        "MadCap Lingo",
+        "Document360",
+        "Confluence",
+        "Notion",
+        "Crowdin"
+      ]
+    },
+    {
+      "name": "Technical Writing",
+      "level": "Expert",
+      "keywords": [
+        "Single-source publishing",
+        "Topic-based authoring",
+        "DITA XML",
+        "API documentation",
+        "Help authoring",
+        "User documentation",
+        "Release notes"
+      ]
+    },
+    {
+      "name": "Web & Markup Languages",
+      "level": "Advanced",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "XML",
+        "Markdown"
+      ]
+    },
+    {
+      "name": "Content Management",
+      "level": "Expert",
+      "keywords": [
+        "EDMS",
+        "CMS",
+        "Fischer TIM",
+        "Content strategy",
+        "Information architecture",
+        "Localization",
+        "Translation management"
+      ]
+    },
+    {
+      "name": "Design & Publishing",
+      "level": "Advanced",
+      "keywords": [
+        "Adobe FrameMaker",
+        "Adobe Photoshop",
+        "Adobe InDesign",
+        "Adobe Illustrator",
+        "Visio",
+        "Snagit"
+      ]
+    },
+    {
+      "name": "Enterprise Software",
+      "level": "Advanced",
+      "keywords": [
+        "ServiceNow",
+        "Jira",
+        "Azure DevOps",
+        "SAP",
+        "PTC Windchill",
+        "PTC Creo",
+        "Creo Illustrate"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "Advanced",
+      "keywords": [
+        "SDLC",
+        "Agile",
+        "Scrum",
+        "Git",
+        "Bitbucket",
+        "CI/CD",
+        "DevOps"
+      ]
+    },
+    {
+      "name": "AI & Emerging Technologies",
+      "level": "Advanced",
+      "keywords": [
+        "Claude Code",
+        "Claude Cowork",
+        "Claude Agent Skills",
+        "LLMs",
+        "Prompt engineering",
+        "AI writing assistants",
+        "ChatGPT",
+        "Copilot"
+      ]
+    },
+    {
+      "name": "IT Service Management",
+      "level": "Advanced",
+      "keywords": [
+        "ITIL",
+        "Service Desk",
+        "Incident Management",
+        "Change Management",
+        "Problem Management",
+        "Service Catalog",
+        "CSI"
+      ]
+    },
+    {
+      "name": "Team Leadership",
+      "level": "Expert",
+      "keywords": [
+        "People management",
+        "Team mentoring",
+        "Recruitment",
+        "Resource planning",
+        "Process improvement",
+        "Strategic planning"
+      ]
+    },
+    {
+      "name": "Languages",
+      "level": "Native/Professional",
+      "keywords": [
+        "English",
+        "Urdu",
+        "Danish"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AI Certified Technical Writer",
+      "issuer": "Anthropic/AI Certification Board"
+    },
+    {
+      "name": "Claude Cowork Certification",
+      "issuer": "Anthropic"
+    },
+    {
+      "name": "Introduction to Agent Skills",
+      "issuer": "Anthropic"
+    },
+    {
+      "name": "Claude 101",
+      "issuer": "Anthropic"
+    }
+  ]
+}

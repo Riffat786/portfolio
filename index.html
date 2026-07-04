@@ -3,18 +3,57 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>My Portfolio</title>
-  <link rel="stylesheet" href="styles.css" />
+  <title>Portfolio</title>
+  <meta name="description" content="Professional portfolio and resume." />
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <header id="hero"></header>
-  <main>
-    <section id="summary"></section>
-    <section id="experience"><h2>Career Timeline</h2><div id="work-list"></div></section>
-    <section id="education"><h2>Education</h2><div id="edu-list"></div></section>
-    <section id="skills"><h2>Skills</h2><div id="skill-list"></div></section>
-    <section id="contact"><h2>Get In Touch</h2><a id="contact-btn" class="btn">Email me</a></section>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
+  <header id="hero" aria-label="Introduction"></header>
+
+  <main id="main-content">
+    <section id="summary-section" hidden aria-labelledby="summary-heading">
+      <h2 id="summary-heading">Summary</h2>
+      <p id="summary"></p>
+    </section>
+
+    <section id="certificates-section" class="certificates" hidden aria-labelledby="certificates-heading">
+      <h2 id="certificates-heading">Certifications</h2>
+      <div id="cert-list" class="cert-grid"></div>
+    </section>
+
+    <section id="experience-section" hidden aria-labelledby="experience-heading">
+      <h2 id="experience-heading">Experience</h2>
+      <div id="work-list"></div>
+    </section>
+
+    <section id="education-section" hidden aria-labelledby="education-heading">
+      <h2 id="education-heading">Education</h2>
+      <div id="edu-list"></div>
+    </section>
+
+    <section id="skills-section" hidden aria-labelledby="skills-heading">
+      <h2 id="skills-heading">Skills</h2>
+      <div id="skill-list" class="skill-grid"></div>
+    </section>
+
+    <section id="projects-section" hidden aria-labelledby="projects-heading">
+      <h2 id="projects-heading">Projects</h2>
+      <div id="project-list"></div>
+    </section>
+
+    <section id="contact-section" hidden aria-labelledby="contact-heading">
+      <h2 id="contact-heading">Get In Touch</h2>
+      <p>Interested in working together? Reach out any time.</p>
+      <a id="contact-btn" class="btn">Email me</a>
+    </section>
   </main>
+
+  <footer id="site-footer">
+    <p id="footer-text"></p>
+  </footer>
+
   <script src="app.js"></script>
 </body>
 </html>
